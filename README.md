@@ -1,0 +1,2 @@
+# sample
+github練習
